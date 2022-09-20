@@ -2,7 +2,8 @@
 """
 Created on Mon Sep 19 18:09:12 2022
 
-@author: rhegstrom
+@author: Roger Hegstrom (rhegstrom@avc.edu)
+
 Use numpy.array to define a 3-by-7 array, A.  
 In array location (i,j), row i, column j,  put the number i*j
 
